@@ -3,7 +3,7 @@ for this project I didn't put the code to public because I developed the project
 
 or
 
-You can visit our page on http://devjasain-landing.herokuapp.com/
+You can visit our page on https://www.jasain.com/
 
 Landing Page
 ![image](https://user-images.githubusercontent.com/73683623/149618390-23012bb3-a706-4eb1-a2a3-adf9cc38e648.png)
